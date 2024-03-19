@@ -95,5 +95,8 @@ Join our [Discord server](https://discord.gg/XcGXa5yd) to connect with other RAG
 OpenRAG is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 
-
+## Other Awesome RAG Repos 
+- [Ragged](https://github.com/neulab/ragged)
+- [Self-RAG] (https://github.com/AkariAsai/self-rag)
+- Create an issue or PR if I missed your cool RAG repo :) . 
 
