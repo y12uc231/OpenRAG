@@ -97,6 +97,6 @@ OpenRAG is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) fil
 
 ## Other Awesome RAG Repos 
 - [Ragged](https://github.com/neulab/ragged)
-- [Self-RAG] (https://github.com/AkariAsai/self-rag)
+- [Self-RAG](https://github.com/AkariAsai/self-rag)
 - Create an issue or PR if I missed your cool RAG repo :) . 
 
